@@ -13,4 +13,4 @@ function sortArr(arr){
     return arr;
 }
 
-console.log(sortArr([2,4,3,9,8,4,5,6]))
+console.log(sortArr([2,4,3,9,8,4,5,6])) //[ 2, 3, 4, 4, 5, 6, 8, 9 ]
